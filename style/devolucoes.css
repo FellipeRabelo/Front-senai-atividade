@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.devolucoes {
+    
+    width: 300px;
+    height: 100px;
+    margin-left: 50px;
+}
+
+.devo-logo {
+    width: 30px;
+    margin-top: 40px;
+    margin-left: 10px;
+
+}
+
+.troca-text {
+    margin-left: 50px;
+    margin-top: -40px;
+    color: #7FFF00;
+}
+
+.dia-text {
+    margin-left: 50px;
+    color: #C8C8C8;
+}

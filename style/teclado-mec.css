@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.tec-mec-sell {
+    width: 350px;
+    margin-left: 45px;
+    margin-top: 100px;
+    cursor: pointer;
+}
+
+.tec-text {
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 30px;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.tec-valor {
+    font-size: 20px;
+    color: #6A6A6A;
+    text-decoration: line-through;
+    margin-left: 125px;
+    margin-top: 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.tec-valor2 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 125px;
+    margin-top: 3px;
+    font-size: 35px;
+    color: #74E405;
+}
+
+.tec-pix {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 125px;
+    margin-top: 3px;
+    color: #6A6A6A;
+}
+
+.tec-comprar-button {
+    cursor: pointer;
+    margin-left: 70px;
+    margin-top: 30px;
+    width: 272px;
+    height: 61px;
+    border: none;
+    background-color: #7DDB1F;
+    color: white;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.tec-comprar-button:hover {
+    background-color: #70ca17;
+    transition: 0.2s;
+}

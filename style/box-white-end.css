@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box-white-5 {
+    height: 250px;
+    width: 1740px;
+    display: flex;
+    margin-left: 1rem;
+    justify-content: space-around;
+}
+
+.box-white-6 {
+    background-color: black;
+    display: flex;
+    height: 100px;
+    width: 100%;
+    margin-top: 0.1px;
+
+}
+
+.direitos-reservados {
+    color: white;
+    display: flex;
+    margin-left: 700px;
+    margin-top: 20px;
+}

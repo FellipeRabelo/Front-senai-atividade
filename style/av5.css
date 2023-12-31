@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.av-5 {  
+    width: 338px;
+    height: 350px;
+    margin-left: 50px;
+}
+
+.av5-tex {
+    font-size: 24px;
+
+}
+
+.av5-data {
+    color: #6F6969;
+
+}
+
+.av5-lugar {
+    color: #6F6969;
+}
+
+.estrela-21 {
+    margin-top: 20px;
+    width: 30px;
+}
+
+.estrela-21:hover {
+    width: 35px;
+}
+
+.estrela-22 {
+    margin-top: 20px;
+    width: 30px;
+}
+
+.estrela-22:hover {
+    width: 35px;
+}
+
+.estrela-23 {
+    margin-top: 20px;
+    width: 30px;
+}
+
+.estrela-23:hover {
+    width: 35px;
+}
+
+.estrela-24 {
+    margin-top: 20px;
+    width: 30px;
+}
+
+.estrela-24:hover {
+    width: 35px;
+}
+
+.estrela-25 {
+    margin-top: 20px;
+    width: 30px;
+}
+
+.estrela-25:hover {
+    width: 35px;
+}
+
+.av5-coment {
+    margin-top: 20px;
+    color: #6F6969;
+}

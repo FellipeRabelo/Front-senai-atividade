@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.mouse-wg-sell {
+    width: 230px;
+    margin-left: 80px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.mouse-wg-text {
+    cursor: pointer;
+    margin-top: 98px;
+    margin-left: 55px;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.mouse-wg-valor {
+    font-size: 20px;
+    color: #6A6A6A;
+    text-decoration: line-through;
+    margin-left: 125px;
+    margin-top: 55px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.mouse-wg-valor2 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 125px;
+    margin-top: 3px;
+    font-size: 35px;
+    color: #74E405;
+
+}
+
+.mouse-wg-pix {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 125px;
+    margin-top: 3px;
+    color: #6A6A6A;
+}
+
+.mouse-wg-button {
+    cursor: pointer;
+    margin-left: 70px;
+    margin-top: 30px;
+    width: 272px;
+    height: 61px;
+    border: none;
+    background-color: #7DDB1F;
+    color: white;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.mouse-wg-button:hover {
+    background-color: #70ca17;
+    transition: 0.2s;
+}
+
+

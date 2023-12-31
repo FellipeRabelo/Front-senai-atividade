@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.parcelamento {
+    
+    width: 300px;
+    height: 100px;
+    margin-left: 50px;
+}
+
+.parcelamento-logo {
+    width: 40px;
+    margin-top: 40px;
+    margin-left: 10px;
+
+}
+
+.parcelamento-text {
+    margin-left: 60px;
+    margin-top: -30px;
+    color: #7FFF00;
+}
+
+.parcelamento2-text {
+    margin-left: 60px;
+    color: #C8C8C8;
+}
